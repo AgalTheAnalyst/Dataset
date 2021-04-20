@@ -1,0 +1,25 @@
+City,State,Rent,TraderJoes,ViolentCrime,PropertyCrime,Region
+Bismarck,North Dakota,700,no,13.7,38.6,North
+Lincoln,Nebraska,738.55,yes,17,47.5,North
+Flagstaff,Arizona,1185.71,no,17.9,56.9,South
+Iowa City,Iowa,889.15,yes,18.8,35.8,North
+Idaho Falls,Idaho,640,no,22.1,36.4,North
+San Jose,California,2658.81,yes,25,36.5,West
+Sioux Falls,South Dakota,803,no,25.5,44.4,North
+Fargo,North Dakota,664.29,no,26.5,43,North
+Spokane,Washington,900,yes,28.6,95.3,West
+Omaha,Nebraska,928.33,yes,33.9,56.6,North
+Des Moines,Iowa,948.33,yes,37.1,60.8,North
+Hot Springs,Arkansas,825,no,37.7,95.3,South
+Las Vegas,Nevada,1188.86,yes,40.9,43.4,West
+Wichita,Kansas,800,yes,48.4,73.6,South
+Birmingham,Alabama,687,yes,75.2,89,South
+Laredo,Texas,633,no,26.2,48.7,South
+Lubbock,Texas,693.75,yes,46.4,66.9,South
+Amarillo,Texas,875,no,36,63.2,South
+Brownsville,Texas,783,no,20.2,52.4,South
+Killeen,Texas,666.67,no,30.8,44.4,South
+McAllen,Texas,608.33,no,13.1,48.2,South
+Denton,Texas,991.5,no,13.6,34.8,South
+Waco,Texas,1087.5,no,29.3,54.1,South
+Round Rock,Texas,890,no,10,32,South

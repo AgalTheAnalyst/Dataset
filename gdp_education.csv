@@ -1,0 +1,78 @@
+Country,Score,GDPRank,GDPPC,log_gdp,Region,Weather
+China,6.797289914,65,10098,9.220092663,East Asia,Cold
+Singapore,5.548464428,8,63987,11.06643522,East Asia,Hot
+Macau,4.76837658,2,81151,11.3040669,East Asia,Hot
+Hong Kong,4.108342729,13,49334,10.80636878,East Asia,Hot
+Estonia,3.844992651,36,23523,10.06573394,Eastern Europe,Cold
+Canada,3.364400346,17,46212,10.74099478,North America/Oceania,Cold
+Finland,3.35292397,14,48868,10.79687806,Western Europe,Cold
+Ireland,2.693238756,4,77771,11.26152389,Western Europe,Hot
+Korea,3.517517588,27,31430,10.35551813,East Asia,Cold
+Poland,3.15009306,56,14901,9.609183604,Eastern Europe,Cold
+Sweden,2.560110127,12,51241,10.84429527,Western Europe,Cold
+New Zealand,2.591605676,23,40634,10.61236043,North America/Oceania,Hot
+United States,2.175543953,7,65111,11.08384878,North America/Oceania,Hot
+United Kingdom,2.637511636,21,41030,10.62205879,Western Europe,Cold
+Japan,3.538640087,22,40846,10.61756418,East Asia,Cold
+Australia,2.386334756,10,53825,10.89349332,North America/Oceania,Hot
+Taiwan,3.341068395,35,24827,10.11968705,East Asia,Hot
+Denmark,2.474369527,9,59795,10.99867732,Western Europe,Cold
+Norway,2.238097534,3,77975,11.26414354,Western Europe,Hot
+Germany,2.45092275,16,46563,10.74856151,Western Europe,Cold
+Slovenia,2.62986982,33,26170,10.172369,Southern Europe,Hot
+Belgium,2.421170389,18,45175,10.71829912,Western Europe,Cold
+France,2.076844453,20,41760,10.63969422,Western Europe,Hot
+Portugal,1.985932608,38,23030,10.04455299,Western Europe,Hot
+Czech Republic,2.167610912,37,23213,10.05246775,Eastern Europe,Hot
+Netherlands,2.541252599,11,52367,10.8660319,Western Europe,Hot
+Austria,1.920413979,13,50022,10.82021819,Western Europe,Cold
+Switzerland,2.298472223,2,83716,11.3351854,Western Europe,Cold
+Croatia,0.863843554,55,14949,9.612399687,Southern Europe,Cold
+Latvia,1.715840334,44,18171,9.807582196,Eastern Europe,Cold
+Russia,1.402166833,61,11162,9.320270431,Eastern Europe,Hot
+Italy,1.136287864,26,32946,10.40262514,Western Europe,Hot
+Hungary,1.279759892,48,17463,9.767839636,Eastern Europe,Hot
+Lithuania,1.29893595,42,19266,9.866097163,Eastern Europe,Hot
+Iceland,1.373954408,6,67037,11.11299998,Western Europe,Cold
+Belarus,0.891619368,84,6603,8.79527937,Eastern Europe,Cold
+Israel,0.485000062,19,42823,10.66483062,Middle East,Hot
+Luxembourg,1.125363378,1,113196,11.63687611,Western Europe,Cold
+Ukraine,0.367561568,119,3592,8.186464429,Eastern Europe,Cold
+Turkey,0.366021631,70,8957,9.100190628,Middle East,Hot
+Slovakia,0.703053936,41,19547,9.880577101,Eastern Europe,Cold
+Greece,-0.163150456,40,19974,9.902186707,Southern Europe,Hot
+Chile,-1.010324174,53,15399,9.642057851,Latin America,Hot
+Malta,0.133641611,28,30650,10.33038794,Western Europe,Hot
+Serbia,-0.785065096,82,7397,8.908829792,Southern Europe,Hot
+United Arab Emirates,-1.261182977,24,37749,10.53871426,Middle East,Hot
+Romania,-1.578081737,57,12482,9.432042885,Eastern Europe,Hot
+Uruguay,-1.808542622,49,17029,9.742673052,Latin America,Hot
+Costa Rica,-2.301308578,58,12014,9.393827915,Latin America,Hot
+Cyprus,-1.033744099,32,27719,10.22987338,Southern Europe,Hot
+Moldova,-1.773764401,122,3300,8.101677747,Eastern Europe,Hot
+Montenegro,-1.920810325,73,8703,9.071423073,Southern Europe,Hot
+Mexico,-2.233292074,64,10118,9.222071295,Latin America,Hot
+Bulgaria,-1.661236488,68,9518,9.160940022,Eastern Europe,Hot
+Jordan,-2.219084008,106,4386,8.386172929,Middle East,Cold
+Malaysia,-1.416364286,62,11136,9.317938383,Asia,Hot
+Brazil,-3.093627945,72,8796,9.082052352,Latin America,Hot
+Colombia,-2.816417986,85,6508,8.780787468,Latin America,Cold
+Brunei,-1.85874986,31,27871,10.235342,Middle East,Hot
+Qatar,-2.389867933,5,69687,11.15176907,Middle East,Hot
+Albania,-2.060244086,97,5372,8.588955558,Southern Europe,Hot
+Bosnia and Herzegovina,-3.008963819,92,5741,8.65538869,Southern Europe,Hot
+Argentina,-3.388910183,66,9887,9.198976042,Latin America,Hot
+Peru,-3.037379042,83,7046,8.860215359,Latin America,Cold
+Saudi Arabia,-3.896378228,39,22865,10.03736264,Middle East,Hot
+Thailand,-2.431038805,80,7791,8.9607245,Asia,Hot
+North Macedonia,-3.121230614,90,6096,8.715388097,Southern Europe,Hot
+Azerbaijan,-3.025642001,102,4689,8.452974619,Asia,Cold
+Kazakhstan,-3.029564535,69,9139,9.120306249,Asia,Cold
+Georgia,-3.870724347,107,4289,8.363808885,Asia,Hot
+Panama,-5.06600115,52,16245,9.695540448,Latin America,Hot
+Indonesia,-4.125968693,109,4163,8.333991247,Asia,Hot
+Morocco,-4.910240193,121,3345,8.115221973,Middle East,Hot
+Lebanon,-4.448069259,67,9654,9.175127616,Middle East,Cold
+Kosovo,-5.288589662,105,4442,8.398860004,Southern Europe,Cold
+Dominican Republic,-6.774877985,74,8629,9.062883903,Latin America,Hot
+Philippines,-5.916024185,123,3294,8.099857911,Asia,Hot
